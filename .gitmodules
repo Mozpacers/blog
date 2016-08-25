@@ -1,0 +1,3 @@
+[submodule "theme/pure"]
+	path = theme/pure
+	url = git@github.com:PurePelicanTheme/pure.git
