@@ -5,7 +5,9 @@ MozCoffee Delhi 7.0
 :category: blog
 :slug: mozcoffee-7-blog
 
-![MozCoffee](images/MozCoffee7.jpg)
+
+.. image:: images/MozCoffee7.jpg
+   :alt: MozCoffee 7
 
 MozPacers organized their 7th MozCofee on Saturday, July 30th, 2016. The attendees were:
 
